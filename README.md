@@ -1,6 +1,6 @@
 # <img src="tart.png" alt="this is a tart" width="30" > TART: Token-based ARchitecture Transformer for Neural Network performance prediction
 
-[Project Interim Report](https://www.overleaf.com/read/fkyjcmypcxkx)
+[Paper]([https://www.overleaf.com/read/fkyjcmypcxkx](https://arxiv.org/pdf/2501.02007v1))
 
 This is a continuing work from the original [PPUDA](https://github.com/facebookresearch/ppuda)
 
